@@ -1,4 +1,4 @@
 university
 ==========
 
-Problem that I solved for university
+Problems that I solved for university

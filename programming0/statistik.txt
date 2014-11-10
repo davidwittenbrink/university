@@ -1,0 +1,5 @@
+Anzahl SMS: 3
+Anzahl Zeichen gesplittet: 534
+Anzahl Zeichen zusammengeführt: 323
+Overhead: 65%
+Checksum korrekt: ja
